@@ -1,17 +1,19 @@
-![Dashboard UI - Desktop](./public/screenshots/Dashboard_UI_Desktop.png)
-*Dashboard view on a desktop*
+## Screenshots
 
-![Modal UI - Desktop](./public/screenshots/Modal_UI_Desktop.png)
-*Modal window on a desktop view*
+### Dashboard UI (Desktop)
+![Dashboard UI Desktop](./public/screenshots/Dashboard_UI_Desktop.png)
 
-![Dashboard UI - Mobile](./public/screenshots/Dashboard_UI_Mobile.png)
-*Dashboard view on a mobile device*
+### Modal UI (Desktop)
+![Modal UI Desktop](./public/screenshots/Modal_UI_Desktop.png)
 
-![Modal UI - Mobile](./public/screenshots/Modal_UI_Mobile.png)
-*Modal window on a mobile view*
+### Dashboard UI (Mobile)
+<img src="./public/screenshots/Dashboard_UI_Mobile.png" alt="Dashboard UI Mobile" style="max-width: 100%; height: auto;" />
 
-![Quick Links - Mobile](./public/screenshots/Link_UI_Mobile.png)
-*Quick links section on a mobile view*
+### Modal UI (Mobile)
+<img src="./public/screenshots/Modal_UI_Mobile.png" alt="Modal UI Mobile" style="max-width: 100%; height: auto;" />
+
+### Quick Links (Mobile)
+<img src="./public/screenshots/Link_UI_Mobile.png" alt="Link UI Mobile" style="max-width: 100%; height: auto;" />
 
 ## Project Overview
 This is a **responsive dashboard** built with **Next.js** that includes various components such as a **navbar**, **announcement section**, **class schedules**, **quick links**, and **modals**. The UI is optimized for both **desktop and mobile** users, ensuring a seamless experience.
