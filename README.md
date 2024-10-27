@@ -1,3 +1,29 @@
+![Dashboard UI - Desktop](./public/screenshots/Dashboard_UI_Desktop.png)
+*Dashboard view on a desktop*
+
+![Modal UI - Desktop](./public/screenshots/Modal_UI_Desktop.png)
+*Modal window on a desktop view*
+
+![Dashboard UI - Mobile](./public/screenshots/Dashboard_UI_Mobile.png)
+*Dashboard view on a mobile device*
+
+![Modal UI - Mobile](./public/screenshots/Modal_UI_Mobile.png)
+*Modal window on a mobile view*
+
+![Quick Links - Mobile](./public/screenshots/Link_UI_Mobile.png)
+*Quick links section on a mobile view*
+
+## Project Overview
+This is a **responsive dashboard** built with **Next.js** that includes various components such as a **navbar**, **announcement section**, **class schedules**, **quick links**, and **modals**. The UI is optimized for both **desktop and mobile** users, ensuring a seamless experience.
+
+
+## Features
+- Responsive design for both mobile and desktop views.
+- Interactive modal for user actions.
+- Optimized for performance with Next.js server-side rendering.
+- Clean and intuitive UI with a focus on user experience.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
